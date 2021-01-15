@@ -63,9 +63,10 @@ align:center;}
     
 }
 
-@media only screen and (max-width: 766px) {
+@media only screen and (max-width: 480px) {
     .hero {
     display:block;
+        width: 400px;
     }
 }
 
