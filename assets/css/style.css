@@ -168,7 +168,7 @@ footer{
       grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
     }
 
-    @media (min-width: 700px){
+    @media (min-width: 480px){
 .hero-content{
     height: 90vh;
     background-color: #00FF7F;
