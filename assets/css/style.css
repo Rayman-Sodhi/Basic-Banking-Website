@@ -65,7 +65,8 @@ align:center;}
 
 @media only screen and (max-width: 766px) {
     .hero {
-      display: none;
+      height: 70vh;
+    width: 80%;
     }
 }
 
