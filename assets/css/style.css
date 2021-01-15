@@ -167,7 +167,22 @@ footer{
       grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
     }
 
+    @media (min-width: 700px){
+.hero-content{
+    height: 90vh;
+    background-color: #00FF7F;
+    color:#2F4F4F;
+    padding: 4rem;
+    border-bottom-left-radius: 30rem;
+    border-bottom-right-radius: 30rem;
+    margin-bottom: 2vh;
+}
+
+.hero{
+    height: 70vh;
+    width: 80%;
     
+}}
     .content-wrap,
     #section-b ul {
       grid-column: 2/4;
