@@ -64,7 +64,7 @@ align:center;}
 }
 
 @media only screen and (max-width: 766px) {
-    .hero-img {
+    .hero {
       display: none;
     }
 }
