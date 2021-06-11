@@ -1,7 +1,9 @@
 # BasicBankingSystem
 Sparks Foundation Web Development Internship Project : Basic Banking System website. 
 A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
-
+ 
+## https://rayman-sodhi.github.io/Basic-Banking-Website/ 
+ 
 ## The website has the following specification -
 Start with a dummy data for upto 10 customers.
 Customers table with basic fields such as name, email, current balance etc.
